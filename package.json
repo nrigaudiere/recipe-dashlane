@@ -1,0 +1,13 @@
+{
+  "id": "recipe-dashlane",
+  "name": "Dashlane",
+  "version": "1.0.0",
+  "description": "Dashlane",
+  "main": "index.js",
+  "author": "Nicolas Rigaudiere <i.am.a@curious.engineer>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.dashlane.com/",
+    "hasNotificationSound": true
+  }
+}
